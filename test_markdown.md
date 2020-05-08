@@ -3,3 +3,5 @@
 ~~strikethrough~~
 
 *italic*
+
+**bold**
